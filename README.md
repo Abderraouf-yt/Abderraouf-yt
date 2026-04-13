@@ -97,9 +97,26 @@ I am an independent AI engineer and builder based in **Algiers, Algeria**, focus
   Tech Stack
 </h2>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,bash,nextjs,django,fastapi,react,docker,nodejs&theme=dark" alt="Tech Stack"/>
-</div>
+**Languages**
+![Python](https://img.shields.io/badge/Python-1c1b19?style=flat-square&logo=python&logoColor=4f98a3)
+![TypeScript](https://img.shields.io/badge/TypeScript-1c1b19?style=flat-square&logo=typescript&logoColor=4f98a3)
+![JavaScript](https://img.shields.io/badge/JavaScript-1c1b19?style=flat-square&logo=javascript&logoColor=e8af34)
+![Shell](https://img.shields.io/badge/Shell-1c1b19?style=flat-square&logo=gnubash&logoColor=6daa45)
+![PowerShell](https://img.shields.io/badge/PowerShell-1c1b19?style=flat-square&logo=powershell&logoColor=5591c7)
+
+**Frameworks & Platforms**
+![Next.js](https://img.shields.io/badge/Next.js-1c1b19?style=flat-square&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1c1b19?style=flat-square&logo=django&logoColor=6daa45)
+![FastAPI](https://img.shields.io/badge/FastAPI-1c1b19?style=flat-square&logo=fastapi&logoColor=4f98a3)
+![React](https://img.shields.io/badge/React-1c1b19?style=flat-square&logo=react&logoColor=4f98a3)
+![Docker](https://img.shields.io/badge/Docker-1c1b19?style=flat-square&logo=docker&logoColor=5591c7)
+![n8n](https://img.shields.io/badge/n8n-1c1b19?style=flat-square&logo=n8n&logoColor=bb653b)
+
+**AI & LLM Tools**
+![Claude](https://img.shields.io/badge/Claude-1c1b19?style=flat-square&logo=anthropic&logoColor=bb653b)
+![Gemini](https://img.shields.io/badge/Gemini-1c1b19?style=flat-square&logo=google&logoColor=4f98a3)
+![LangChain](https://img.shields.io/badge/LangChain-1c1b19?style=flat-square&logo=chainlink&logoColor=6daa45)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-1c1b19?style=flat-square&logo=openai&logoColor=4f98a3)
 
 ---
 
@@ -180,7 +197,7 @@ I run scored, 6-dimension GEO audits and deliver **ready-to-deploy fix files** â
 
 ![Stripe](https://img.shields.io/badge/Stripe-84%2F100-01696f?style=flat-square&label=Stripe&labelColor=1c1b19)
 ![Linear](https://img.shields.io/badge/Linear-69%2F100-4f98a3?style=flat-square&label=Linear&labelColor=1c1b19)
-![The%20Sill](https://img.shields.io/badge/The%20Sill-53%2F100-cedcd8?style=flat-square&label=The%20Sill&labelColor=1c1b19&color=6b7280)
+![The Sill](https://img.shields.io/badge/The%20Sill-53%2F100-cedcd8?style=flat-square&label=The%20Sill&labelColor=1c1b19&color=6b7280)
 
 </div>
 
