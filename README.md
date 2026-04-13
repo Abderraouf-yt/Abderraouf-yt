@@ -1,117 +1,142 @@
-<!-- Profile README for Abderraouf-yt -->
-
 <div align="center">
 
-<!-- Dynamic header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:01696f,100:0c4e54&height=140&section=header&text=Abderraouf%20Yacine%20Toumi&fontSize=32&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20%7C%20MCP%20Specialist%20%7C%20Builder&descSize=16&descAlignY=68&descColor=cedcd8" width="100%" alt="header"/>
 
-<!-- Badges row -->
-[![Profile Views](https://komarev.com/ghpvc/?username=Abderraouf-yt&color=01696f&style=flat-square&label=Profile+Views)](https://github.com/Abderraouf-yt)
-[![GitHub followers](https://img.shields.io/github/followers/Abderraouf-yt?style=flat-square&color=01696f&labelColor=1c1b19&label=Followers)](https://github.com/Abderraouf-yt?tab=followers)
-[![Email](https://img.shields.io/badge/contact@abderraouf--yt.info-01696f?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@abderraouf-yt.info)
-[![Location](https://img.shields.io/badge/Algiers%2C%20Algeria-1c1b19?style=flat-square&logo=googlemaps&logoColor=01696f)](https://github.com/Abderraouf-yt)
+[
+[
+[
+[
 
 </div>
 
----
+***
 
-## 👋 About Me
+<h2>
+  <img src="https://api.iconify.design/lucide/user-round.svg?color=%234f98a3" width="22" height="22" align="top" alt="About icon"/>
+  About Me
+</h2>
 
-I'm an independent AI engineer and builder based in **Algiers, Algeria**, specializing in **MCP (Model Context Protocol) servers**, AI agent orchestration, and automation systems. I build tools that bridge the gap between cutting-edge AI capabilities and real-world workflows.
+I am an independent AI engineer and builder based in **Algiers, Algeria**, focused on MCP (Model Context Protocol) servers, AI agent orchestration, and workflow automation systems.
 
-- 🔭 Currently building the **GoT-MCP** (Graph of Thoughts) reasoning server & **MCP Hub** — a self-hosted dashboard for MCP ecosystems
-- 🌱 Exploring **multi-agent systems** with CrewAI, LangChain, and custom LLM pipelines
-- 🛠️ Crafting **AI-powered administrative automation** for Algerian institutional contexts
-- 💡 Interested in **GEO/SEO intelligence**, domain research, and niche market automation
-- 📧 Reach me at [contact@abderraouf-yt.info](mailto:contact@abderraouf-yt.info)
+- Currently building GoT-MCP and MCP Hub.
+- Exploring multi-agent systems with CrewAI, LangChain, and custom LLM pipelines.
+- Building AI-powered administrative automation for Algerian institutional workflows.
+- Interested in GEO/SEO intelligence, domain research, and niche market automation.
+- Contact: [contact@abderraouf-yt.info](mailto:contact@abderraouf-yt.info)
 
----
+***
 
-## 🚀 Featured Projects
-
-> Pinned highlights — click to explore each one.
+<h2>
+  <img src="https://api.iconify.design/lucide/star.svg?color=%234f98a3" width="22" height="22" align="top" alt="Featured icon"/>
+  Featured Projects
+</h2>
 
 | Project | Description | Stack |
 |---|---|---|
-| [🌌 skill7](https://github.com/Abderraouf-yt/skill7) | Universal MCP server for 634+ AI development skills. Works with Gemini CLI, Claude, Cursor, VS Code & more | `JavaScript` `MCP` |
-| [🧠 got-mcp](https://github.com/Abderraouf-yt/got-mcp) | Graph of Thoughts MCP Server — bounded, auditable reasoning for AI agents | `TypeScript` `MCP` |
-| [🌐 mcp-hub](https://github.com/Abderraouf-yt/mcp-hub) | First open-source self-hosted dashboard for MCP server management & sharing | `Django` `Python` |
-| [🔗 universal-mcp-bridge](https://github.com/Abderraouf-yt/universal-mcp-bridge) | Industry-standard configuration manager for the MCP ecosystem | `TypeScript` |
-| [🛡️ ComplianceGather](https://github.com/Abderraouf-yt/ComplianceGather) | Automated SOC 2 compliance evidence collection — FastAPI + Supabase + Streamlit | `Python` `FastAPI` |
-| [🔍 repo-readiness-auditor](https://github.com/Abderraouf-yt/repo-readiness-auditor) | AI agent skill auditing project structure, secrets exposure & GitHub readiness for 16+ stacks | `Shell` `AI` |
+| [skill7](https://github.com/Abderraouf-yt/skill7) | Universal MCP server for AI development skills across major coding environments | `JavaScript` `MCP` |
+| [got-mcp](https://github.com/Abderraouf-yt/got-mcp) | Graph of Thoughts MCP server for bounded, auditable agent reasoning | `TypeScript` `MCP` |
+| [mcp-hub](https://github.com/Abderraouf-yt/mcp-hub) | Self-hosted dashboard for managing and sharing MCP server configurations | `Django` `Python` |
+| [universal-mcp-bridge](https://github.com/Abderraouf-yt/universal-mcp-bridge) | Configuration manager for the MCP ecosystem | `TypeScript` |
+| [ComplianceGather](https://github.com/Abderraouf-yt/ComplianceGather) | Automated SOC 2 compliance evidence collection for startups | `Python` `FastAPI` |
+| [repo-readiness-auditor](https://github.com/Abderraouf-yt/repo-readiness-auditor) | Audits repositories for structure, documentation, and security readiness | `Shell` |
 
----
+***
 
-## 🗂️ Repository Index
+<h2>
+  <img src="https://api.iconify.design/lucide/layout-grid.svg?color=%234f98a3" width="22" height="22" align="top" alt="Index icon"/>
+  Repository Index
+</h2>
 
-### 🤖 AI & MCP Servers
+<h3>
+  <img src="https://api.iconify.design/lucide/cpu.svg?color=%234f98a3" width="18" height="18" align="top" alt="AI icon"/>
+  AI and MCP
+</h3>
 
-| Repo | What it does |
+| Repo | Focus |
 |---|---|
-| [skill7](https://github.com/Abderraouf-yt/skill7) | 634+ AI development skills as a universal MCP server |
+| [skill7](https://github.com/Abderraouf-yt/skill7) | Universal MCP server for AI development workflows |
 | [got-mcp](https://github.com/Abderraouf-yt/got-mcp) | Graph of Thoughts reasoning server for AI agents |
-| [mcp-hub](https://github.com/Abderraouf-yt/mcp-hub) | Self-hosted dashboard for managing MCP configurations |
-| [universal-mcp-bridge](https://github.com/Abderraouf-yt/universal-mcp-bridge) | Universal MCP configuration manager |
+| [mcp-hub](https://github.com/Abderraouf-yt/mcp-hub) | Self-hosted MCP management dashboard |
+| [universal-mcp-bridge](https://github.com/Abderraouf-yt/universal-mcp-bridge) | MCP ecosystem configuration manager |
 
-### ⚙️ Automation & DevTools
+<h3>
+  <img src="https://api.iconify.design/lucide/settings-2.svg?color=%234f98a3" width="18" height="18" align="top" alt="Automation icon"/>
+  Automation and DevTools
+</h3>
 
-| Repo | What it does |
+| Repo | Focus |
 |---|---|
-| [repo-readiness-auditor](https://github.com/Abderraouf-yt/repo-readiness-auditor) | Audits any project for GitHub readiness — secrets, docs, .gitignore |
-| [github-best-practices](https://github.com/Abderraouf-yt/github-best-practices) | 2026 GitHub workflows, security & automation best practices (AI skill) |
-| [github-pr-updater](https://github.com/Abderraouf-yt/github-pr-updater) | Lightweight PowerShell script to auto-rebase PRs via GitHub REST API |
-| [Build-Data-libs](https://github.com/Abderraouf-yt/Build-Data-libs) | Workflow automation pipeline for domain & keyword research using AI + SEO data |
+| [repo-readiness-auditor](https://github.com/Abderraouf-yt/repo-readiness-auditor) | GitHub readiness and security auditing |
+| [github-best-practices](https://github.com/Abderraouf-yt/github-best-practices) | GitHub workflows, security, and automation guidance |
+| [github-pr-updater](https://github.com/Abderraouf-yt/github-pr-updater) | PR branch update automation via GitHub REST API |
+| [Build-Data-libs](https://github.com/Abderraouf-yt/Build-Data-libs) | AI and SEO workflow automation pipeline |
 
-### 🐍 Python Tools
+<h3>
+  <img src="https://api.iconify.design/lucide/terminal.svg?color=%234f98a3" width="18" height="18" align="top" alt="Python tools icon"/>
+  Python Tools
+</h3>
 
-| Repo | What it does |
+| Repo | Focus |
 |---|---|
-| [ComplianceGather](https://github.com/Abderraouf-yt/ComplianceGather) | SOC 2 compliance evidence collection for startups |
+| [ComplianceGather](https://github.com/Abderraouf-yt/ComplianceGather) | SOC 2 compliance evidence collection |
 | [file-renamer-gui](https://github.com/Abderraouf-yt/file-renamer-gui) | Desktop GUI for batch file renaming |
-| [ghosttrack_gui](https://github.com/Abderraouf-yt/ghosttrack_gui) | Ghost tracking GUI tool |
+| [ghosttrack_gui](https://github.com/Abderraouf-yt/ghosttrack_gui) | Python GUI utility |
 
-### 🌐 Web & SaaS
+<h3>
+  <img src="https://api.iconify.design/lucide/globe.svg?color=%234f98a3" width="18" height="18" align="top" alt="Web icon"/>
+  Web and SaaS
+</h3>
 
-| Repo | What it does |
+| Repo | Focus |
 |---|---|
-| [Niche2Gig](https://github.com/Abderraouf-yt/Niche2Gig) | Bridges niche research to actionable freelance revenue opportunities |
+| [Niche2Gig](https://github.com/Abderraouf-yt/Niche2Gig) | Niche research to freelance opportunity workflow |
 | [portfolio](https://github.com/Abderraouf-yt/portfolio) | Personal portfolio website |
 
----
+***
 
-## 🧰 Tech Stack
+<h2>
+  <img src="https://api.iconify.design/lucide/layers.svg?color=%234f98a3" width="22" height="22" align="top" alt="Stack icon"/>
+  Tech Stack
+</h2>
 
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-1c1b19?style=flat-square&logo=python&logoColor=4f98a3)
-![TypeScript](https://img.shields.io/badge/TypeScript-1c1b19?style=flat-square&logo=typescript&logoColor=4f98a3)
-![JavaScript](https://img.shields.io/badge/JavaScript-1c1b19?style=flat-square&logo=javascript&logoColor=e8af34)
-![Shell](https://img.shields.io/badge/Shell-1c1b19?style=flat-square&logo=gnubash&logoColor=6daa45)
-![PowerShell](https://img.shields.io/badge/PowerShell-1c1b19?style=flat-square&logo=powershell&logoColor=5591c7)
-
-**Frameworks & Platforms**
-
-![Next.js](https://img.shields.io/badge/Next.js-1c1b19?style=flat-square&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-1c1b19?style=flat-square&logo=django&logoColor=6daa45)
-![FastAPI](https://img.shields.io/badge/FastAPI-1c1b19?style=flat-square&logo=fastapi&logoColor=4f98a3)
-![React](https://img.shields.io/badge/React-1c1b19?style=flat-square&logo=react&logoColor=4f98a3)
-![Docker](https://img.shields.io/badge/Docker-1c1b19?style=flat-square&logo=docker&logoColor=5591c7)
-![n8n](https://img.shields.io/badge/n8n-1c1b19?style=flat-square&logo=n8n&logoColor=bb653b)
-
-**AI & LLM Tools**
-
-![Claude](https://img.shields.io/badge/Claude-1c1b19?style=flat-square&logo=anthropic&logoColor=bb653b)
-![Gemini](https://img.shields.io/badge/Gemini-1c1b19?style=flat-square&logo=google&logoColor=4f98a3)
-![LangChain](https://img.shields.io/badge/LangChain-1c1b19?style=flat-square&logo=chainlink&logoColor=6daa45)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-1c1b19?style=flat-square&logo=openai&logoColor=4f98a3)
+<img src="https://cdn.simpleicons.org/python/4f98a3" width="36" height="36" alt="Python" title="Python"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/typescript/4f98a3" width="36" height="36" alt="TypeScript" title="TypeScript"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/e8af34" width="36" height="36" alt="JavaScript" title="JavaScript"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/gnubash/6daa45" width="36" height="36" alt="Shell" title="Shell / Bash"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/powershell/5591c7" width="36" height="36" alt="PowerShell" title="PowerShell"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs/cdccca" width="36" height="36" alt="Next.js" title="Next.js"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/django/6daa45" width="36" height="36" alt="Django" title="Django"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi/4f98a3" width="36" height="36" alt="FastAPI" title="FastAPI"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/react/4f98a3" width="36" height="36" alt="React" title="React"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/docker/5591c7" width="36" height="36" alt="Docker" title="Docker"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/n8n/bb653b" width="36" height="36" alt="n8n" title="n8n"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/anthropic/bb653b" width="36" height="36" alt="Anthropic" title="Claude / Anthropic"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/google/4f98a3" width="36" height="36" alt="Google" title="Gemini / Google AI"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/langchain/6daa45" width="36" height="36" alt="LangChain" title="LangChain"/>
 
 </div>
 
----
+***
 
-## 📊 GitHub Stats
+<h2>
+  <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%234f98a3" width="22" height="22" align="top" alt="Stats icon"/>
+  GitHub Stats
+</h2>
 
 <div align="center">
 
@@ -121,19 +146,20 @@ I'm an independent AI engineer and builder based in **Algiers, Algeria**, specia
 
 </div>
 
----
+***
 
-## 🌱 Currently Exploring
+<h2>
+  <img src="https://api.iconify.design/lucide/compass.svg?color=%234f98a3" width="22" height="22" align="top" alt="Explore icon"/>
+  Currently Exploring
+</h2>
 
-```
-Graph of Thought (GoT) reasoning architectures
-Multi-agent orchestration with CrewAI + LangChain
-Docker-based self-hosted AI infrastructure
-GEO/SEO intelligence for the Algerian (.dz) market
-Administrative process automation for DZ institutions
-```
+- Graph of Thought reasoning architectures.
+- Multi-agent orchestration with CrewAI and LangChain.
+- Docker-based self-hosted AI infrastructure.
+- GEO/SEO intelligence for the Algerian market.
+- Administrative process automation for Algerian institutions.
 
----
+***
 
 <div align="center">
 
