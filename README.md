@@ -41,12 +41,12 @@ I am an independent AI engineer and builder based in **Algiers, Algeria**, focus
 ---
 
 <h2>
-  <img src="https://api.iconify.design/ph/squares-four-bold.svg?color=%234f98a3" width="26" height="26" alt="Index"/>
+  <img src="https://api.iconify.design/ph/folder-open-bold.svg?color=%234f98a3" width="26" height="26" alt="Index"/>
   Repository Index
 </h2>
 
 <h3>
-  <img src="https://api.iconify.design/ph/cpu-bold.svg?color=%234f98a3" width="18" height="18" alt="AI"/>
+  <img src="https://api.iconify.design/ph/robot-bold.svg?color=%234f98a3" width="20" height="20" alt="AI"/>
   AI and MCP
 </h3>
 
@@ -58,7 +58,7 @@ I am an independent AI engineer and builder based in **Algiers, Algeria**, focus
 | [universal-mcp-bridge](https://github.com/Abderraouf-yt/universal-mcp-bridge) | MCP ecosystem configuration manager |
 
 <h3>
-  <img src="https://api.iconify.design/ph/wrench-bold.svg?color=%234f98a3" width="18" height="18" alt="Automation"/>
+  <img src="https://api.iconify.design/ph/wrench-bold.svg?color=%234f98a3" width="20" height="20" alt="Automation"/>
   Automation and DevTools
 </h3>
 
@@ -70,7 +70,7 @@ I am an independent AI engineer and builder based in **Algiers, Algeria**, focus
 | [Build-Data-libs](https://github.com/Abderraouf-yt/Build-Data-libs) | AI and SEO workflow automation pipeline |
 
 <h3>
-  <img src="https://api.iconify.design/ph/terminal-window-bold.svg?color=%234f98a3" width="18" height="18" alt="Python Tools"/>
+  <img src="https://api.iconify.design/ph/snake-bold.svg?color=%234f98a3" width="20" height="20" alt="Python Tools"/>
   Python Tools
 </h3>
 
@@ -81,7 +81,7 @@ I am an independent AI engineer and builder based in **Algiers, Algeria**, focus
 | [ghosttrack_gui](https://github.com/Abderraouf-yt/ghosttrack_gui) | Python GUI utility |
 
 <h3>
-  <img src="https://api.iconify.design/ph/globe-bold.svg?color=%234f98a3" width="18" height="18" alt="Web"/>
+  <img src="https://api.iconify.design/ph/globe-bold.svg?color=%234f98a3" width="20" height="20" alt="Web"/>
   Web and SaaS
 </h3>
 
@@ -98,38 +98,24 @@ I am an independent AI engineer and builder based in **Algiers, Algeria**, focus
 </h2>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/python/4f98a3" width="34" height="34" alt="Python" title="Python"/>
-  <img src="https://cdn.simpleicons.org/typescript/4f98a3" width="34" height="34" alt="TypeScript" title="TypeScript"/>
-  <img src="https://cdn.simpleicons.org/javascript/e8af34" width="34" height="34" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.simpleicons.org/gnubash/6daa45" width="34" height="34" alt="Shell" title="Shell"/>
-  <img src="https://img.shields.io/badge/PowerShell-5591c7?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" title="PowerShell"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs/cdccca" width="34" height="34" alt="Next.js" title="Next.js"/>
-  <img src="https://cdn.simpleicons.org/django/6daa45" width="34" height="34" alt="Django" title="Django"/>
-  <img src="https://cdn.simpleicons.org/fastapi/4f98a3" width="34" height="34" alt="FastAPI" title="FastAPI"/>
-  <img src="https://cdn.simpleicons.org/react/4f98a3" width="34" height="34" alt="React" title="React"/>
-  <img src="https://cdn.simpleicons.org/docker/5591c7" width="34" height="34" alt="Docker" title="Docker"/>
-  <img src="https://cdn.simpleicons.org/n8n/bb653b" width="34" height="34" alt="n8n" title="n8n"/>
-  <img src="https://cdn.simpleicons.org/anthropic/cdccca" width="34" height="34" alt="Anthropic" title="Anthropic"/>
-  <img src="https://cdn.simpleicons.org/google/4f98a3" width="34" height="34" alt="Google" title="Google"/>
-  <img src="https://cdn.simpleicons.org/langchain/6daa45" width="34" height="34" alt="LangChain" title="LangChain"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,bash,nextjs,django,fastapi,react,docker,nodejs&theme=dark" alt="Tech Stack"/>
 </div>
 
 ---
 
 <h2>
-  <img src="https://api.iconify.design/ph/chart-bar-bold.svg?color=%234f98a3" width="26" height="26" alt="Stats"/>
-  GitHub Stats
+  <img src="https://api.iconify.design/ph/chart-line-up-bold.svg?color=%234f98a3" width="26" height="26" alt="Activity"/>
+  Contribution Activity
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abderraouf-yt&show_icons=true&theme=dark&bg_color=1c1b19&border_color=393836&title_color=4f98a3&icon_color=4f98a3&text_color=cdccca&hide_border=false&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderraouf-yt&layout=compact&theme=dark&bg_color=1c1b19&border_color=393836&title_color=4f98a3&text_color=cdccca&hide_border=false&langs_count=6" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abderraouf-yt&theme=github-compact&hide_border=true&bg_color=0d1117&color=4f98a3&line=01696f&point=cedcd8" width="100%" alt="Contribution Activity Graph"/>
 </div>
 
 ---
 
 <h2>
-  <img src="https://api.iconify.design/ph/compass-bold.svg?color=%234f98a3" width="26" height="26" alt="Explore"/>
+  <img src="https://api.iconify.design/ph/lightning-bold.svg?color=%234f98a3" width="26" height="26" alt="Explore"/>
   Currently Exploring
 </h2>
 
@@ -140,6 +126,10 @@ I am an independent AI engineer and builder based in **Algiers, Algeria**, focus
 - Administrative process automation for Algerian institutions.
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Abderraouf-yt/Abderraouf-yt/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4e54,100:01696f&height=80&section=footer" width="100%" alt="footer"/>
