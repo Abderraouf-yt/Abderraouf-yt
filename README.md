@@ -127,9 +127,70 @@ I am an independent AI engineer and builder based in **Algiers, Algeria**, focus
 
 ---
 
+<h2>
+  <img src="https://api.iconify.design/ph/magnifying-glass-bold.svg?color=%234f98a3" width="26" height="26" alt="GEO"/>
+  GEO Audit Service
+</h2>
+
+> **GEO** (Generative Engine Optimization) is the discipline of making your brand visible and citable inside ChatGPT, Perplexity, Google AI Overviews, and every AI assistant your customers are already using.
+
+I run scored, 6-dimension GEO audits and deliver **ready-to-deploy fix files** — not a PDF of recommendations, but the actual `llms.txt`, `robots.txt`, and schema code your developer pastes and ships the same day.
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abderraouf-yt/Abderraouf-yt/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+
+| Tier | Service | Deliverable | Timeline |
+|:---:|---|---|:---:|
+| 1 | **GEO Quick Check** | Score across 6 dimensions + top 3 priority fixes | 24 hrs |
+| 2 | **Full GEO Audit** | Scored report + `llms.txt` + `robots.txt` + Schema JSON-LD + 90-day plan + strategy call | 5 days |
+| 3 | **Monthly GEO Retainer** | Ongoing citation monitoring, schema evolution, quarterly re-score | Monthly |
+
 </div>
+
+**The 6 audit dimensions:**
+
+<div align="center">
+
+| Dimension | Weight | What it measures |
+|---|:---:|---|
+| AI Citability | 25% | Can AI extract a self-contained, citable fact from each key page? |
+| Brand Authority | 20% | Wikipedia, Wikidata, LinkedIn entity verification |
+| Content Quality (E-E-A-T) | 20% | Real authorship, expertise signals, experience markers |
+| Technical Foundations | 15% | SSR vs JS-rendered — AI crawlers miss client-side content entirely |
+| Structured Data | 10% | Schema.org markup presence and correctness |
+| Platform Optimization | 10% | Reddit, YouTube, and AI training data source visibility |
+
+</div>
+
+**Who this is for:**
+
+<div align="center">
+
+![GEO Agencies](https://img.shields.io/badge/GEO%20Agencies-01696f?style=flat-square&logoColor=white)
+![Marketing Teams](https://img.shields.io/badge/Marketing%20Teams-0c4e54?style=flat-square&logoColor=white)
+![SaaS Companies](https://img.shields.io/badge/SaaS%20Companies-01696f?style=flat-square&logoColor=white)
+![E-commerce](https://img.shields.io/badge/E--commerce-0c4e54?style=flat-square&logoColor=white)
+![Content Creators](https://img.shields.io/badge/Content%20Creators-01696f?style=flat-square&logoColor=white)
+![Local Businesses](https://img.shields.io/badge/Local%20Businesses-0c4e54?style=flat-square&logoColor=white)
+
+</div>
+
+**Benchmark scores on publicly audited sites:**
+
+<div align="center">
+
+![Stripe](https://img.shields.io/badge/Stripe-84%2F100-01696f?style=flat-square&label=Stripe&labelColor=1c1b19)
+![Linear](https://img.shields.io/badge/Linear-69%2F100-4f98a3?style=flat-square&label=Linear&labelColor=1c1b19)
+![The%20Sill](https://img.shields.io/badge/The%20Sill-53%2F100-cedcd8?style=flat-square&label=The%20Sill&labelColor=1c1b19&color=6b7280)
+
+</div>
+
+<div align="center">
+  <a href="mailto:contact@abderraouf-yt.info">
+    <img src="https://img.shields.io/badge/DM%20%22GEO%22%20to%20start-contact@abderraouf--yt.info-01696f?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact for GEO audit"/>
+  </a>
+</div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4e54,100:01696f&height=80&section=footer" width="100%" alt="footer"/>
