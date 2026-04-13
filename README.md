@@ -10,7 +10,7 @@
 ---
 
 <h2>
-  <img src="https://api.iconify.design/lucide/user-round.svg?color=%234f98a3" width="20" height="20" alt="About"/>
+  <img src="https://api.iconify.design/ph-bold/user-circle-bold.svg?color=%234f98a3" width="26" height="26" alt="About"/>
   About Me
 </h2>
 
@@ -25,7 +25,7 @@ I am an independent AI engineer and builder based in **Algiers, Algeria**, focus
 ---
 
 <h2>
-  <img src="https://api.iconify.design/lucide/star.svg?color=%234f98a3" width="20" height="20" alt="Projects"/>
+  <img src="https://api.iconify.design/ph-bold/star-bold.svg?color=%234f98a3" width="26" height="26" alt="Projects"/>
   Featured Projects
 </h2>
 
@@ -41,12 +41,12 @@ I am an independent AI engineer and builder based in **Algiers, Algeria**, focus
 ---
 
 <h2>
-  <img src="https://api.iconify.design/lucide/layout-grid.svg?color=%234f98a3" width="20" height="20" alt="Index"/>
+  <img src="https://api.iconify.design/ph-bold/squares-four-bold.svg?color=%234f98a3" width="26" height="26" alt="Index"/>
   Repository Index
 </h2>
 
 <h3>
-  <img src="https://api.iconify.design/lucide/cpu.svg?color=%234f98a3" width="16" height="16" alt="AI"/>
+  <img src="https://api.iconify.design/ph-bold/cpu-bold.svg?color=%234f98a3" width="18" height="18" alt="AI"/>
   AI and MCP
 </h3>
 
@@ -58,7 +58,7 @@ I am an independent AI engineer and builder based in **Algiers, Algeria**, focus
 | [universal-mcp-bridge](https://github.com/Abderraouf-yt/universal-mcp-bridge) | MCP ecosystem configuration manager |
 
 <h3>
-  <img src="https://api.iconify.design/lucide/settings-2.svg?color=%234f98a3" width="16" height="16" alt="Automation"/>
+  <img src="https://api.iconify.design/ph-bold/wrench-bold.svg?color=%234f98a3" width="18" height="18" alt="Automation"/>
   Automation and DevTools
 </h3>
 
@@ -70,7 +70,7 @@ I am an independent AI engineer and builder based in **Algiers, Algeria**, focus
 | [Build-Data-libs](https://github.com/Abderraouf-yt/Build-Data-libs) | AI and SEO workflow automation pipeline |
 
 <h3>
-  <img src="https://api.iconify.design/lucide/terminal.svg?color=%234f98a3" width="16" height="16" alt="Python Tools"/>
+  <img src="https://api.iconify.design/ph-bold/terminal-window-bold.svg?color=%234f98a3" width="18" height="18" alt="Python Tools"/>
   Python Tools
 </h3>
 
@@ -81,7 +81,7 @@ I am an independent AI engineer and builder based in **Algiers, Algeria**, focus
 | [ghosttrack_gui](https://github.com/Abderraouf-yt/ghosttrack_gui) | Python GUI utility |
 
 <h3>
-  <img src="https://api.iconify.design/lucide/globe.svg?color=%234f98a3" width="16" height="16" alt="Web"/>
+  <img src="https://api.iconify.design/ph-bold/globe-bold.svg?color=%234f98a3" width="18" height="18" alt="Web"/>
   Web and SaaS
 </h3>
 
@@ -93,7 +93,7 @@ I am an independent AI engineer and builder based in **Algiers, Algeria**, focus
 ---
 
 <h2>
-  <img src="https://api.iconify.design/lucide/layers.svg?color=%234f98a3" width="20" height="20" alt="Stack"/>
+  <img src="https://api.iconify.design/ph-bold/stack-bold.svg?color=%234f98a3" width="26" height="26" alt="Stack"/>
   Tech Stack
 </h2>
 
@@ -117,7 +117,7 @@ I am an independent AI engineer and builder based in **Algiers, Algeria**, focus
 ---
 
 <h2>
-  <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%234f98a3" width="20" height="20" alt="Stats"/>
+  <img src="https://api.iconify.design/ph-bold/chart-bar-bold.svg?color=%234f98a3" width="26" height="26" alt="Stats"/>
   GitHub Stats
 </h2>
 
@@ -129,7 +129,7 @@ I am an independent AI engineer and builder based in **Algiers, Algeria**, focus
 ---
 
 <h2>
-  <img src="https://api.iconify.design/lucide/compass.svg?color=%234f98a3" width="20" height="20" alt="Explore"/>
+  <img src="https://api.iconify.design/ph-bold/compass-bold.svg?color=%234f98a3" width="26" height="26" alt="Explore"/>
   Currently Exploring
 </h2>
 
