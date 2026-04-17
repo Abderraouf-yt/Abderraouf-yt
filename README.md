@@ -70,7 +70,7 @@ I am an independent AI engineer and builder based in **Algiers, Algeria**, focus
 | [Build-Data-libs](https://github.com/Abderraouf-yt/Build-Data-libs) | AI and SEO workflow automation pipeline |
 
 <h3>
-  <img src="https://api.iconify.design/ph/snake-bold.svg?color=%234f98a3" width="20" height="20" alt="Python Tools"/>
+  <img src="https://api.iconify.design/ph/terminal-window-bold.svg?color=%234f98a3" width="20" height="20" alt="Python Tools"/>
   Python Tools
 </h3>
 
