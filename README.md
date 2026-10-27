@@ -4,6 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Abderraouf-yt&color=01696f&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Abderraouf-yt?style=flat-square&color=01696f&labelColor=1c1b19&label=Followers" alt="Followers"/>
   <img src="https://img.shields.io/badge/contact@abderraouf--yt.info-01696f?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+ <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=Abderraouf-yt&theme=github-compact&hide_border=true&bg_color=0d1117&color=4f98a3&line=01696f&point=cedcd8" alt="GitHub Activity Graph" />
   <img src="https://img.shields.io/badge/Algiers%2C%20Algeria-1c1b19?style=flat-square&logo=googlemaps&logoColor=01696f" alt="Location"/>
 </div>
 
